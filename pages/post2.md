@@ -2,6 +2,7 @@
 slug: "post-2"
 title: 'Post 2'
 template: "freeformLayout"
+date: 05-12-2019
 ---
 
 # Yo
