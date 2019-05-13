@@ -1,6 +1,7 @@
 ---
-path: "post-1"
+slug: "post-1"
 title: 'My Title'
+template: "postLayout"
 ---
 
 # Hello
